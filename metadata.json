@@ -1,0 +1,5 @@
+{
+  "name": "College Cleaning Management System",
+  "description": "A full-stack application for reporting and managing cleaning issues in a college environment with role-based access for students, staff, and cleaning staff.",
+  "requestFramePermissions": []
+}
